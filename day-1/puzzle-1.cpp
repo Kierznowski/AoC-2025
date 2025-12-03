@@ -7,8 +7,8 @@ int count_new_method(std::vector<std::string>& moves);
 
 int main() {
 
-	//std::fstream file("test-input.txt");
-	std::fstream file("input.txt");
+	//std::fstream file("test-input-1.txt");
+	std::fstream file("input-1.txt");
 
 	if (!file) {
 		std::cerr << "File cannot be opened!" << std::endl;
