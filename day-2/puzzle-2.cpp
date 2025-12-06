@@ -7,7 +7,7 @@ bool checkPattern(long long id);
 bool checkForNewPattern(long long id);
 
 int main() {
-    //std::fstream file("test-input-2");
+    //std::fstream file("test-input-6-2");
     std::fstream file("input-2");
 
     if (!file) {

@@ -8,7 +8,7 @@ int findBestBatteryIdx(std::string& bank, int startIdx, int endIdx);
 
 int main() {
 
-    //std::fstream file("test-input-3");
+    //std::fstream file("test-input-6-3");
     std::fstream file("input-3");
 
     std::string line;

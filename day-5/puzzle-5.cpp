@@ -7,7 +7,7 @@ bool foundInDB(std::vector<std::string>& db, long long);
 void normalizeDB(std::vector<std::string>& db, std::vector<std::pair<long long, long long>>& normalizedDB);
 
 int main() {
-    //std::fstream file("test-input-5");
+    //std::fstream file("test-input-6-5");
     std::fstream file("input-5");
 
     std::string line;

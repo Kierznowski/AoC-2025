@@ -6,7 +6,7 @@ int calculateAndMarkMovableRolls(std::vector<std::string>& input);
 void removeMovableRolls(std::vector<std::string>& input);
 
 int main() {
-    //std::ifstream file("test-input-4");
+    //std::ifstream file("test-input-6-4");
     std::ifstream file("input-4");
 
     std::string line;

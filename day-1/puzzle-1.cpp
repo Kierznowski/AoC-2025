@@ -7,7 +7,7 @@ int count_new_method(std::vector<std::string>& moves);
 
 int main() {
 
-	//std::fstream file("test-input-1.txt");
+	//std::fstream file("test-input-6-1.txt");
 	std::fstream file("input-1.txt");
 
 	if (!file) {
